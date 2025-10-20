@@ -61,4 +61,4 @@ online-bookstore-sql-analysis/
 PostgreSQL | SQL | Data Analysis | Data Analytics | Joins | Business Insights
 
 ## Contact
-📫 Connect with me on LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/umer-khursheed-ba730921b)
+📫 Connect with me on LinkedIn: (https://www.linkedin.com/in/umer-khursheed-ba730921b)
